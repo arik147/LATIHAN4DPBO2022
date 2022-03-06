@@ -13,4 +13,4 @@ Repository Latihan 4 mata kuliah Desain Pemrograman Berorientasi Objek 2022
 
 Terdapat 6 Kelas dan 2 Main.
 Saya memisahkan antara kelas (Vehicle, Ship, Airplane) dan (Person, Job, Driver). Kelas Vehicle merupakan parent dari kelas Ship dan Airplane. Sedangkan kelas Person, Job, Airplane tidak memiliki hubungan dengan kelompok kelas sebelumnya. Driver merupakan child dari kelas Person pun kelas Driver bisa menjadi child dari kelas Job.
-Dengan begitu saya memisahkan antara kedua kelompok kelas.
+Dengan begitu saya memisahkan antara kedua kelompok kelas tersebut kedalam dua folder yang berbeda.
